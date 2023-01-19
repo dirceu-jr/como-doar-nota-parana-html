@@ -2,6 +2,8 @@ Copie e cole abaixo ou [veja o HTML](https://raw.githubusercontent.com/dirceu-jr
 
 <hr>
 
+O aplicativo <strong>Nota Paraná</strong> do Governo do Estado permite o cadastro de notas fiscais não identificadas (onde não foi associado o CPF) para destinação de recursos a instituições de assistência social, saúde, cultural, desportiva e de defesa e proteção animal. Saiba como ajudar:
+
 Abra o aplicativo <strong>Play Store</strong> como destacado abaixo na primeira imagem.
 
 Procure por "<strong>Nota Paraná</strong>" e instale o aplicativo:
