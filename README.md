@@ -1,3 +1,7 @@
+Copie e cole abaixo ou [veja o HTML](https://raw.githubusercontent.com/dirceu-jr/como-doar-nota-parana-html/main/README.md).
+
+<hr>
+
 Abra o aplicativo <strong>Play Store</strong> como destacado abaixo na primeira imagem.
 
 Procure por "<strong>Nota Paraná</strong>" e instale o aplicativo:
