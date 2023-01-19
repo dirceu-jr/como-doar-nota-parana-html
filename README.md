@@ -14,7 +14,7 @@ Na tela inicial do Nota Paraná selecione "<strong>Doar Notas</strong>":
 
 <img src="https://github.com/dirceu-jr/como-doar-nota-parana-html/raw/main/captura-de-tela-3.jpg" width="300"> <img src="https://github.com/dirceu-jr/como-doar-nota-parana-html/raw/main/captura-de-tela-4.jpg" width="300">
 
-Insira o <strong>CNPJ da Entidade ou entre na Pesquisa de Entidades</strong>:
+Insira o <strong>CNPJ</strong> da Entidade ou entre na <strong>Pesquisa de Entidades</strong>:
 
 <img src="https://github.com/dirceu-jr/como-doar-nota-parana-html/raw/main/captura-de-tela-5.jpg" width="300"> <img src="https://github.com/dirceu-jr/como-doar-nota-parana-html/raw/main/captura-de-tela-6.jpg" width="300">
 
